@@ -1,5 +1,19 @@
 body {
 	background-color: yellow;
-	font-family: 'Quicksand', sans-serif;
-	color: grey;
+	font-family: 'Avant Garde', sans-serif;
+	color: darkgray;
+}
+.plain-list {
+	list-style: none;
+}
+
+#ProfileImage {
+	width:300px;
+	float: right;
+}
+
+#Gifs {
+	height: 200px;
+	width:300px;
+	float: center;
 }

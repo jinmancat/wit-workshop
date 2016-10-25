@@ -1,7 +1,9 @@
 body {
 	background-color: yellow;
-	font-family: 'Avant Garde', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	color: darkgray;
+}
+h1{font-family: 'Open Sans Condensed', sans-serif;
 }
 .plain-list {
 	list-style: none;

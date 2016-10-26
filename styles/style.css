@@ -1,7 +1,10 @@
 body {
-	background-color: yellow;
+	background-color: pink;
 	font-family: 'Roboto Slab', serif;
-	color: darkgray;
+	color: green;
+	margin-left: 30px;
+	margin-right: 30px;
+
 }
 h1{font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -18,4 +21,8 @@ h1{font-family: 'Open Sans Condensed', sans-serif;
 	height: 200px;
 	width:300px;
 	float: center;
+}
+
+a:hover {
+	color: green;
 }
